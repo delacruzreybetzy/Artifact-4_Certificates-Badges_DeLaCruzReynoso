@@ -15,7 +15,7 @@
 
 
 ## Files Included in This Repository
-- Certificate PDF (uploaded in repository)
+- Certificate PDF 
 - Badge Image/Screenshot
 - This README.md file documenting certificate & skills
 
