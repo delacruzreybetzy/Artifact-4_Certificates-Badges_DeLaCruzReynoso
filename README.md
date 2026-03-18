@@ -1,7 +1,3 @@
-# Artifact-4_Certificates-Badges_DeLaCruzReynoso
-Completed Cisco's Network Addressing and Basic Troubleshooting certificate course , allowed me to gaining hands-on experience with IPv4/IPv6 and network diagnostics.
-
-
 # Artifact 4: Certificate & Badge Documentation
 
 ## Student Information
@@ -31,4 +27,4 @@ Completed Cisco's Network Addressing and Basic Troubleshooting certificate cours
 - Hands-on experience with Packet Tracer activities
 
 ## Reflection
-I chose this Cisco certificate to strengthen my networking fundamentals, which are essential for any cybersecurity role. Through 14 hours of hands-on training, I learned how IP addressing works and how to troubleshoot common network issues. This certificate directly supports my goal of becoming a Technical Support Specialist by giving me practical skills that employers look for. Combined with my Security+, I now have both networking and security knowledge.
+I chose this Cisco certificate to build a strong foundation in physical networking concepts, including IP addressing, network layers, and hands-on troubleshooting. Through 14 hours of practical training with Cisco Packet Tracer, I gained experience diagnosing connectivity issues and understanding how data physically moves through cables, switches, and routers. This certificate directly supports my goal of becoming a Network Technician by giving me the practical, hardware-focused skills needed to work with physical network infrastructure. Combined with my Security+, I now have a better understanding of both how networks are built and how to keep them secure.
