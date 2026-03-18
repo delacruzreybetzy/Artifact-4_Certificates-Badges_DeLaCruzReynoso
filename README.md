@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** Betzy De La Cruz Reynoso
-- **Course:** Study Skills (HUB)
+- **Course:** Study Skills (HUB) PM
 - **Artifact:** 4 — Certificates & Badges
 
 ## Certificate Details
