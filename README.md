@@ -2,7 +2,7 @@
 
 ## Student Information
 - **Name:** Betzy De La Cruz Reynoso
-- **Course:** Cybersecurity Technology
+- **Course:** Study Skills (HUB)
 - **Artifact:** 4 — Certificates & Badges
 
 ## Certificate Details
